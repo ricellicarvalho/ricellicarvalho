@@ -30,5 +30,7 @@ During my career, I have worked on many projects as a backend developer and had 
 &nbsp;
 <img alt="Kubernetes" title="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" height="25"/>
 &nbsp;
+<img alt="AWS" title="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+&nbsp;
 <img height="25" alt="RabbitMQ" title="RabbitMQ" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
 </p>
