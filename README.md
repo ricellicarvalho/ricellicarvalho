@@ -2,8 +2,8 @@
 
 Backend Developer | NodeJS | Javascript | TypeScript
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ricelli%20Carvalho-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricellicarvalho/)](https://www.linkedin.com/in/ricellicarvalho/) 
-[![Gmail Badge](https://img.shields.io/badge/-ricelli.martinsdecarvalho@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricelli.martinsdecarvalho@gmail.com)](mailto:ricelli.martinsdecarvalho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricellicarvalho/)](https://www.linkedin.com/in/ricellicarvalho/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ricelli.martinsdecarvalho@gmail.com)](mailto:ricelli.martinsdecarvalho@gmail.com)
 
 I am a Backend Developer from Brazil, have more than 10 years of experience and I really love to learn new things, new technologies and new ways to do the same thing.
 
